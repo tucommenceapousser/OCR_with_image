@@ -1,6 +1,6 @@
 ---
 title: OCR With Image
-emoji: 😻
+emoji: 🏴
 colorFrom: gray
 colorTo: green
 sdk: streamlit
